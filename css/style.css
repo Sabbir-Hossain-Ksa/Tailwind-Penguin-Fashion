@@ -1,0 +1,25 @@
+
+:root {
+  --text-casablanca: #fabe4c;
+  --text-martinique: #363958;
+  --text-mine-shaft: #3e3e3e;
+  --bg-linear-gradient: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+}
+
+.text-primary {
+  color: var(--text-casablanca);
+}
+.text-secondary {
+  color: var(--text-martinique);
+}
+.text-para {
+  color: var(--text-mine-shaft);
+}
+
+.bg-linear-gradient {
+  background: var(--bg-linear-gradient);
+}
+
+.icon{
+    font-size: 18px;
+}
